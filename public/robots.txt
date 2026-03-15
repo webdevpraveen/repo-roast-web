@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://repo-roast-wdp.vercel.app/sitemap.xml
